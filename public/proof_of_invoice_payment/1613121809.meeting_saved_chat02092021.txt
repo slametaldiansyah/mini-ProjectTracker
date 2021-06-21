@@ -1,0 +1,16 @@
+13:23:38 From Garpepi Aotearoa to Everyone : Create Project:
+13:49:25 From Garpepi Aotearoa to Everyone : Create Project:
+ - Colume use if contract bucket cannot be null
+ - Sign date project cannot less than start date contract
+ - Start date project cannot less than Sign data project
+ - End Date project cannot lmore than end date project
+
+ Poject status
+ - Add name project on table
+
+ Configuration
+ - Creat to set Name of Cotract Type
+
+
+ payment and invoice
+ Create new menu for invoice
